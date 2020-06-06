@@ -25,3 +25,5 @@ TempTest.java
 .idea/
 !.idea/runConfigurations/
 atlassian-ide-plugin.xml
+
+.vscode
